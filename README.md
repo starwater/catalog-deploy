@@ -20,4 +20,20 @@ Install venv inside /var/www/catalog/catalog/
 /var/www/catalog/catalog.wsgi
 
 # To login as grader
-ssh -i ~/path to private key grader@34.217.27.103 -p 2200
+ssh -i ~/path to private key grader2@34.217.27.103 -p 2200
+
+
+
+# Sources that help a lot
+linux auto-update  
+https://help.ubuntu.com/lts/serverguide/automatic-updates.html  
+
+ssh security settings  
+http://acmeextension.com/secur-ssh-server/  
+
+ports and firewall settings  
+https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+
+postgre apache linux setup:  
+https://stackoverflow.com/questions/20100893/apache-unable-to-load-postgres
+
